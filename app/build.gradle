@@ -1,0 +1,6 @@
+plugins { id 'com.android.application' }
+android {
+    namespace 'org.radiorriols.radiocall'
+    compileSdk 35
+    defaultConfig { applicationId 'org.radiorriols.radiocall'; minSdk 28; targetSdk 28; versionCode 1; versionName '0.1' }
+}
